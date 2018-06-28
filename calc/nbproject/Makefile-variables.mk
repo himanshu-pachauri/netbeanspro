@@ -8,9 +8,9 @@ CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
-CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
+CND_ARTIFACT_DIR_Debug=
 CND_ARTIFACT_NAME_Debug=calc
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/calc
+CND_ARTIFACT_PATH_Debug=calc
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
 CND_PACKAGE_NAME_Debug=calc.tar
 CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/calc.tar

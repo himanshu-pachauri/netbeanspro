@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/calc/build/
+/calc/dist/
+/random_genrator/build/

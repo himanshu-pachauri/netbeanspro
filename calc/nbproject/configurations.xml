@@ -35,6 +35,12 @@
         <rebuildPropChanged>false</rebuildPropChanged>
       </toolsSet>
       <compileType>
+        <linkerTool>
+          <output>calc</output>
+          <linkerLibItems>
+            <linkerOptionItem>`pkg-config --libs gtk+-3.0`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
       </compileType>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
